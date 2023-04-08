@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Charmy Patel
-- 👀 I’m interested in Web Devloping
+- 👀 I’m interested in Mobile Application Devloping
 - 🌱 I’m currently learning Msc.it
 - 💞️ I’m looking to collaborate on my Web Thechnology Project
 - 📫 How to reach me : Charmyp1806@gmail.com is my e-mail id.
